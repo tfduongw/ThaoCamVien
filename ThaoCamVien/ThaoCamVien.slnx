@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/Database/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="ApiThaoCamVien/ThaoCamVienAPI.csproj" />
+  <Project Path="WebThaoCamVien/ThaoCamVienAPP.csproj" />
+  <Project Path="AppThaoCamVien/ThaoCamVienWeb.csproj" />
+</Solution>
